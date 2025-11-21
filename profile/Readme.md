@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building usef
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/slymanmrcan/slymanmrcan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/slymanmrcan/slymanmrcan/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
