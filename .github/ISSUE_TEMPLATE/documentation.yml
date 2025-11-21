@@ -1,0 +1,17 @@
+name: Documentation Update
+description: Belgelerde iyileştirme veya düzeltme talebi.
+labels: [docs]
+body:
+  - type: textarea
+    id: info
+    attributes:
+      label: Eksik / Hatalı Bölüm
+      placeholder: "Hangi kısım güncellenmeli?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Önerilen Düzenleme
+      placeholder: "Ne şekilde düzeltilmeli?"
